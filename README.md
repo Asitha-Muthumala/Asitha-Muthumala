@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asitha-muthumala&label=Profile%20views&color=0e75b6&style=flat" alt="asitha-muthumala" /> </p>
 
-- 🔭 I’m currently working on **Lagoonria**
+- 🔭 I’m currently working on **ScheduleMate**
 
-- 🌱 I’m currently learning **Spring Boot, React**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **ReactJS, NodeJS**
+- 💬 Ask me about **Angular, React, JAVA, SpringBoot, NodeJS**
 
 - 📫 How to reach me **akmuthumala@gmail.com**
 
-- ⚡ Fun fact **I think I am funny 😂**
+- ⚡ Fun fact: Debugging is like being a detective in a crime movie where you are also the murderer! 🔍💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
