@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asitha Muthumala</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h3 align="center">Full Stack Software Engineer | Turning visions into reality — from Sri Lanka to the world.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
