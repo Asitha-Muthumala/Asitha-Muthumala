@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asitha-muthumala&label=Profile%20views&color=0e75b6&style=flat" alt="asitha-muthumala" /> </p>
 
-- 🔭 I’m currently working on **ScheduleMate**
+- 🔭 I’m currently working on **BookNGo**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Angular, React, JAVA, SpringBoot, NodeJS**
+- 💬 Ask me about **Angular, React, JAVA, SpringBoot, NodeJS, Kafka**
 
 - 📫 How to reach me **akmuthumala@gmail.com**
 
