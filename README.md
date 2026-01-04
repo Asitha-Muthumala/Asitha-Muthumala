@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asitha-muthumala&label=Profile%20views&color=0e75b6&style=flat" alt="asitha-muthumala" /> </p>
 
-- 🔭 I’m currently working on **BookNGo**
+- 🔭 I’m currently working on **FlashPos**
 
 - 🌱 I’m currently learning **Machine Learning**
 
